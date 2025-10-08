@@ -1,10 +1,11 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF;">Harsh Garg</span></h1>
-<h3 align="center">🚀 MERN Stack Developer | Exploring AI & Machine Learning | Java & Python Lover | Turning ideas into real-world digital solutions</h3>
+<h3 align="center">🚀 MERN Stack Developer | Exploring AI & Machine Learning | Java & Python Coder | Turning ideas into real-world digital solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=🚀+MERN+Stack+Developer;Exploring+AI+%26+Machine+Learning;Java+%26+Python+Lover;Turning+Ideas+into+Real-World+Digital+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning;Java+%26+Python+Coder;Turning+Ideas+into+Real-World+Digital+Solutions" alt="Typing SVG" />
 </p>
+
 
 
 

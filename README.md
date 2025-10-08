@@ -98,7 +98,7 @@ Pandas • NumPy • Matplotlib • Scikit-learn • Flask • Django • ML
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Harshgarg123&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Harshgarg123&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile views" />
 </p>
 
 

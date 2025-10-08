@@ -1,10 +1,12 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF;">Harsh Garg</span></h1>
-<h3 align="center">🚀 Full-Stack Developer (MERN) | AI & Java Enthusiast | Python Learner</h3>
+<h3 align="center">🚀 MERN Stack Developer | Exploring AI & Machine Learning | Java & Python Lover | Turning ideas into real-world digital solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+AI+Explorer+%7C+Tech+Innovator;Java+%26+Python+Programmer;Passionate+about+Building+Intelligent+Web+Apps;Always+Learning+%26+Improving+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=🚀+MERN+Stack+Developer;Exploring+AI+%26+Machine+Learning;Java+%26+Python+Lover;Turning+Ideas+into+Real-World+Digital+Solutions" alt="Typing SVG" />
 </p>
+
+
 
 ---
 
@@ -35,7 +37,7 @@ Node.js • Express.js • MongoDB • Firebase
 Java • Python • SQL
 
 ### 🔍 Data & AI:
-Pandas • NumPy • Matplotlib • Scikit-learn • Flask • Django
+Pandas • NumPy • Matplotlib • Scikit-learn • Flask • Django • ML 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,java,python,mysql,firebase,git,github,vscode" />
@@ -45,7 +47,7 @@ Pandas • NumPy • Matplotlib • Scikit-learn • Flask • Django
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshgarg" target="_blank">
+  <a href="https://www.linkedin.com/in/harsh-garg-36ba55201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:harshgarg99645@gmail.com" target="_blank">
@@ -80,10 +82,10 @@ Pandas • NumPy • Matplotlib • Scikit-learn • Flask • Django
 
 ## 🚀 Featured Projects
 - 🧾 **SMART Proforma Invoice System** – AI-assisted invoice generator using Google Apps Script & Tailwind  
-- ✅ **MERN ToDo App** – Task management with calendar integration & email notifications  
-- 👨‍🏫 **Attendance Management System** – PHP & SQL-based portal for academic attendance tracking  
+- ✅ **MERN JOB SEARCHING PLATFORM** – Job Searching Platform & email notifications  
+- 👨‍🏫 **FarmSync AI** – An AI Monitoring System for Monitoring Farmers  
 
-*(Add your project repo links here for recruiters to check!)*
+
 
 ---
 
@@ -95,11 +97,12 @@ Pandas • NumPy • Matplotlib • Scikit-learn • Flask • Django
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Harshgarg123&label=Profile%20Views&color=0&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=Harshgarg123&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views" />
 </p>
+
 
 ---
 
 ⭐ *“Code. Learn. Inspire.”*  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
